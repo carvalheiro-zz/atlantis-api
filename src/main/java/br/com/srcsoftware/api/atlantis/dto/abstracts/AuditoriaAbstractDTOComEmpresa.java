@@ -1,6 +1,6 @@
 package br.com.srcsoftware.api.atlantis.dto.abstracts;
 
-import br.com.srcsoftware.api.atlantis.dto.manager.empresa.EmpresaDTO;
+import br.com.srcsoftware.api.atlantis.dto.empresa.EmpresaDTO;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

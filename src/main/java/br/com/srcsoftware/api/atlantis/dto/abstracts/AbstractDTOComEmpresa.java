@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-import br.com.srcsoftware.api.atlantis.dto.manager.empresa.EmpresaDTO;
+import br.com.srcsoftware.api.atlantis.dto.empresa.EmpresaDTO;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

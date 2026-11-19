@@ -1,6 +1,6 @@
 package br.com.srcsoftware.api.atlantis.entity.abstracts;
 
-import br.com.srcsoftware.api.atlantis.entity.manager.empresa.EmpresaPO;
+import br.com.srcsoftware.api.atlantis.entity.empresa.EmpresaPO;
 import jakarta.persistence.FetchType;
 import jakarta.persistence.ForeignKey;
 import jakarta.persistence.JoinColumn;

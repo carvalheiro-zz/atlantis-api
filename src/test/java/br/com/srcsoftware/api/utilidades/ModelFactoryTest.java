@@ -18,8 +18,8 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 
-import br.com.srcsoftware.api.atlantis.dto.manager.usuario.tela.TelaDTO;
-import br.com.srcsoftware.api.atlantis.entity.manager.usuario.tela.TelaPO;
+import br.com.srcsoftware.api.atlantis.dto.usuario.tela.TelaDTO;
+import br.com.srcsoftware.api.atlantis.entity.usuario.tela.TelaPO;
 import br.com.srcsoftware.api.atlantis.exceptions.ModelFactoryException;
 import br.com.srcsoftware.api.atlantis.utilidades.ModelFactory;
 import jakarta.validation.ConstraintViolation;
